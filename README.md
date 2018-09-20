@@ -4,6 +4,8 @@
 [![Elastic Stack version](https://img.shields.io/badge/ELK-6.4.0-blue.svg?style=flat)](https://github.com/deviantony/docker-elk/issues/312)
 [![Build Status](https://api.travis-ci.org/deviantony/docker-elk.svg?branch=master)](https://travis-ci.org/deviantony/docker-elk)
 
+## Change: add es storage in docker-compose.yml;
+
 Run the latest version of the [Elastic stack](https://www.elastic.co/elk-stack) with Docker and Docker Compose.
 
 It will give you the ability to analyze any data set by using the searching/aggregation capabilities of Elasticsearch
